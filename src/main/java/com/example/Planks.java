@@ -13,8 +13,8 @@ import java.util.function.Function;
 public class Planks {
     public static Block PURPLE_PLANKS = register(
             ModBlockItemIds.PURPLE_PLANKS,
-            (properties) -> new PurplePlanks(new ColorRGBA(0x2596beFF), properties),
-            BlockBehaviour.Properties.ofFullCopy(Blocks.SAND)
+            (properties) -> new PurplePlanks(new ColorRGBA(0xB792FFFF), properties),
+            BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)
     );
 
     public static void initialize() {}
