@@ -11,6 +11,6 @@ public class PurplePlanks implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		LOGGER.info("Hello fabric world!");
-		Planks.initialize();
+		Purple_PlanksBlocks.initialize();
 	}
 }

@@ -19,7 +19,6 @@
 			"com.example.PurplePlanks"
 		],
 		"client": [
-			"com.example.client.PurplePlanksClient"
 		]
 	},
 	"mixins": [
