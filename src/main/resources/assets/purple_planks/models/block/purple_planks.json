@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "purpleplanks:block/purple_planks"
+    "all": "purple_planks:block/purple_planks"
   }
 }
